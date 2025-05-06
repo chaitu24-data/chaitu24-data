@@ -5,7 +5,7 @@
 - 🎓 Master's Degree in Mathematics  
 - 💼 **Tools I Use**: Excel, Power BI, SQL (Proficient)  
 - 📈 I love converting raw data into clear, actionable insights  
-- ✉️ Reach me at: [your-email@gmail.com](mailto:your-email@gmail.com)  
+- ✉️ Reach me at: [your-email@gmail.com](mailto:chaithrasgowda2001@gmail.com)  
 - 🎲 Fun Insight: Data tells stories — I love to be the storyteller!  
 
 ---
