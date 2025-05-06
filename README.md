@@ -11,7 +11,7 @@
 ---
 
 ### 🔗 Connect with me:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit-blue)https://www.linkedin.com/in/chaithrads/
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit-blue)   https://www.linkedin.com/in/chaithrads/
 
 ---
 
